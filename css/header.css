@@ -1,0 +1,10 @@
+.breadcrumb-item + .breadcrumb-item::before {
+  content: "|";
+}
+.nav-item:hover a{
+	color: #b8b8b8;
+}
+.nav-item a{
+	color: #ccc;
+	transition: .3s;
+}
